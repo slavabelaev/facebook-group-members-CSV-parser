@@ -1,0 +1,28 @@
+{
+  "name": "facebook-group-members-csv-parser",
+  "version": "1.0.0",
+  "description": "Facebook group members parser to CSV",
+  "previews": {
+    "directory": "previews",
+    "images": [
+      {
+        "path": "instruction.png",
+        "title": "Instruction"
+      }
+    ]
+  },
+  "main": "facebook-group-parser.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/belaevslava/facebook-group-members-CSV-parser.git"
+  },
+  "author": "slav@belaev.pro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/belaevslava/facebook-group-members-CSV-parser/issues"
+  },
+  "homepage": "https://github.com/belaevslava/facebook-group-members-CSV-parser#readme"
+}
